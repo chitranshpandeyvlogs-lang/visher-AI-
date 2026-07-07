@@ -1601,6 +1601,16 @@ export default function App() {
               </details>
             </div>
           </section>
+          {/* contact */}
+          <div class="contact-support"></div>
+          <h3>Need Help?</h3>
+          <p>Send us a message and we'll get back to you shortly.</p>
+
+          <form action="https://chitranshpandeyvlogs@gmail.com" method="POST"></form>
+          <input type="email" name="email" placeholder="Your email" required></input>
+          <textarea name="message" placeholder="How can we help?" rows="3" required></textarea>
+          <button type="submit">Submit</button>
+        
 
           {/* FOOTER */}
           <footer>
