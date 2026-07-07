@@ -1532,7 +1532,7 @@ export default function App() {
             <span className="section-label">Questions & Science</span>
             <h2>Manifestation, Privacy & Terms</h2>
             <div className="faq-list">
-              <details className="faq-item">
+              <details className="privacy & terms ">
                 <summary>What is Visherai (Vish) and how does manifestation actually work?</summary>
                 <p>
                   Visherai (often referred to as <strong>Vish</strong> by our community) is a daily intention-mapping and alignment journal. 
@@ -1546,7 +1546,7 @@ export default function App() {
                 </ul>
               </details>
 
-              <details className="faq-item">
+              <details className="privacy policy">
                 <summary>Privacy Policy: How is my personal data secured?</summary>
                 <p>
                   At Visherai, privacy is not a feature — it is our core architecture. Your journal entries, personal goals, and manifested stars are stored <strong>privately</strong> under your designated identifier. 
