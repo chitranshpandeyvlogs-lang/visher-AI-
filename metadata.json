@@ -1,0 +1,6 @@
+{
+  "name": "Visherai",
+  "description": "A private daily manifestation journal where entries become a personal constellation, paired with an evidence-based explanation of the psychology behind manifestation. Make a vish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
